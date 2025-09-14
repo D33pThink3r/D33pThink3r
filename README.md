@@ -1,9 +1,8 @@
-# Can Yorukcuoglu - Software Developer (⌐■_■)
+# 👋 Hi, I'm Can!
 
-#  About Me:
-Hey there, I'm **Can**, a daydreamer trying to change the world through technology :) 
-Currently, I'm studying **Computer Science** at **ETH Zurich**. 
-I’m passionate about building high-quality products and services, and especially interested in shaping the technology of tomorrow for others. 
+## About Me:
+A curious mind and a daydreamer, trying to make the world a better place with technology 🚀.  
+Currently studying **Computer Science** at **ETH Zurich**.  
 
  Feel free to reach out to me on:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/can-y-33165430b)
