@@ -5,9 +5,6 @@ Hey there, I'm Can, studying computer science at **ETH Zurich**.<br>
 I’m passionate about building high-quality products and services, and I’m especially interested in shaping the technology of tomorrow for others.  
 Feel free to reach out!  
 
-I'm passionate about building high-quality products and services.  
-I value good craftsmanship, beautiful design, and growth fueled by product excellence.  
-
 💬 You can also reach out to me on  
 [LinkedIn](https://www.linkedin.com/in/can-y-33165430b
 
